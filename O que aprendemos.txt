@@ -14,3 +14,10 @@ Criamos uma pasta templates dentro do app de receitas, para manter nossos arquiv
 Importamos uma página estilizada, com html, css e javascript;
 
 Carregamos esses arquivos, conhecidos como arquivos estáticos e melhoramos o visual da nossa aplicação.
+
+--AULA 03--
+Ajustamos os links da index, do logo através da template tag url;
+
+Criamos o base.html para usar as mesmas partes do HTML em diferentes páginas da aplicação;
+
+Evitamos código duplicado do menu e do footer criando e incluindo partials.
