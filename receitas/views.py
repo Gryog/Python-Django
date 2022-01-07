@@ -1,18 +1,17 @@
+from django.http.response import HttpResponse
 from django.shortcuts import render
 
 def index(request):
-
     receitas = {
         1:'Lasanha',
         2:'Sopa de Legumes',
         3:'Sorvete',
-        4:'Bolo de Chocolate'
+        4:'Bolo de chocolate'
     }
 
     dados = {
         'nome_das_receitas' : receitas
     }
-
     return render(request, 'index.html', dados)
 
 def receita(request):
