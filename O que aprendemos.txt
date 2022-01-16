@@ -28,3 +28,10 @@ Aprendemos como enviar dados para o template renderizar;
 Instalamos e configuramos o banco de dados Postgres com a nossa aplicação;
 
 Criamos o modelo de receitas e mapeamos para uma tabela no banco de dados.
+
+--AULA 05--
+Aprendemos como enviar e exibir dados para uma página;
+
+Exibimos as receitas que estão no banco de dados;
+
+Alteramos a url da index, exibindo como cada receita é feita, seus ingredientes e outras informações.
