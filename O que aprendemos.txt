@@ -21,3 +21,10 @@ Ajustamos os links da index, do logo através da template tag url;
 Criamos o base.html para usar as mesmas partes do HTML em diferentes páginas da aplicação;
 
 Evitamos código duplicado do menu e do footer criando e incluindo partials.
+
+--AULA 04--
+Aprendemos como enviar dados para o template renderizar;
+
+Instalamos e configuramos o banco de dados Postgres com a nossa aplicação;
+
+Criamos o modelo de receitas e mapeamos para uma tabela no banco de dados.
