@@ -1,4 +1,4 @@
-Introdução ao Django: Modelo, Rotas e Views
+----Introdução ao Django: Modelo, Rotas e Views----
 --AULA 01--
 Criamos uma pasta para manter todo código da nossa aplicação;
 
@@ -35,3 +35,7 @@ Aprendemos como enviar e exibir dados para uma página;
 Exibimos as receitas que estão no banco de dados;
 
 Alteramos a url da index, exibindo como cada receita é feita, seus ingredientes e outras informações.
+
+----Integração de modelos no Django: Filtros, buscas e admin----
+--AULA 01--
+Adicionamos filtros, buscas e paginação alterando o código do admin.py.
