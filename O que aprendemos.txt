@@ -39,3 +39,10 @@ Alteramos a url da index, exibindo como cada receita é feita, seus ingredientes
 ----Integração de modelos no Django: Filtros, buscas e admin----
 --AULA 01--
 Adicionamos filtros, buscas e paginação alterando o código do admin.py.
+
+--AULA 02--
+Criamos o app de pessoas, elaboramos um modelo com nome e email e realizamos a migração;
+
+Integramos o modelo de receita com o modelo de pessoa, indicando quem postou a receita;
+
+Incluímos a função __str__ para retornar o nome da pessoa no admin no lugar de Pessoa object.
